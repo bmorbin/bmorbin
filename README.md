@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ~~~python
-Esta é uma linha de código em Javascript.
+Esta é uma linha de código em Python.
 a = 2
 print(a)
 ~~~
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmorbin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bmorbin/bmorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

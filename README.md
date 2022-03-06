@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id='teste' style='background-color:blue'>
-  <p>teste</p>
+<div id='teste' style='background-color:blue;height:100px; width:100px'>
+  <p style="color:red">teste</p>
 </div>

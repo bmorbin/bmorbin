@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+~~~python
+Esta é uma linha de código em Javascript.
+a = 2
+print(a)
+~~~
+
+
 <!--
 **bmorbin/bmorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-![Capa](./icons/7capa_linkedin.png)
+<img width="100%" src="./icons/7capa_linkedin.png">
 
 <h1> Hi there 👋</h1>
 

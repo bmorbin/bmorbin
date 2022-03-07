@@ -44,3 +44,12 @@ Here are some ideas to get you started:
   ##
 
 <img align="center" height="40" src="https://img.freepik.com/free-icon/python-language_318-1898.jpg?size=338&ext=jpg">
+
+<div style="display:inline-block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  
+</div>
+

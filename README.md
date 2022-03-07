@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <div id='teste' style='background-color:blue;height:100px; width:100px'>
   <p style="color:red">teste</p>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin)](https://github.com/anuraghazra/github-readme-stats)

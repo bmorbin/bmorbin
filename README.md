@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/bmorbin">
+<a width="100%" href="https://github.com/bmorbin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact" />
 </a>

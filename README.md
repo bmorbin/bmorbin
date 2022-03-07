@@ -1,3 +1,5 @@
+![Capa](./icons/7capa_linkedin.png)
+
 <h1> Hi there 👋</h1>
 
 ~~~python

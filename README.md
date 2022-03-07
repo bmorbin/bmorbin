@@ -41,4 +41,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img height='180em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  ##
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+
+

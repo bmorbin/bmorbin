@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
   ##
 
+<i class="devicon-python-plain-wordmark"></i>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 
 
 

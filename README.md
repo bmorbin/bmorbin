@@ -1,4 +1,4 @@
-<img width="100%" src="./icons/graficos.png">
+<img width="100%" src="./icons/graficos2.png">
 
 <h1> Hi there 👋</h1>
 

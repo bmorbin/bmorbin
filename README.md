@@ -38,6 +38,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact&text_color=ffffff&bg_color=00000000&hide_border=True&title_color=ffffff" />
   </a>
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
 </div>

@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/bmorbin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact&text_color=000000&bg_color=1c1c1b" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact&text_color=ffffff&bg_color=1c1c1b,161b22" />
   </a>
 </div>

@@ -44,16 +44,9 @@ Here are some ideas to get you started:
   
 </div>
 
-<div style="display: grid;grid-template-columns: 1fr 1fr;grid-template-areas: 'a b';height: max-content;">
-  <div style="grid-area: a;padding:0 10px 0 0px;display: flex;justify-content: end;">
-  <a href="https://github.com/bmorbin" style="height:100%;width: 100%;max-width: 300px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
-  </a>
-  </div>
-  <div style="grid-area: a;padding:0 10px 0 0px;display: flex;justify-content: end;">
-  <a href="https://github.com/bmorbin" style="height:100%;width: 100%;max-width: 300px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
-  </a>
-  </div>
-</div>
 
+<div align="center">
+  <a href="https://github.com/bmorbin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff"/>
+</div>

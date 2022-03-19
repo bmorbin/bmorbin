@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div style="display:inline-block">
+<div style="display:inline-block; width:99%">
   <a href="https://github.com/bmorbin">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
   </a>

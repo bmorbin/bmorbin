@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
   </a>
   <a href="https://github.com/bmorbin">
-    <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
+    <img align="center" width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff" />
   </a>
 </div>
 

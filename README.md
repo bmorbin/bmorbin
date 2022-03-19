@@ -1,12 +1,3 @@
-<img width="100%" src="./icons/graficos2.png">
-
-<h1> Hi there 👋</h1>
-
-~~~python
-Esta é uma linha de código em Python.
-a = 2
-print(a)
-~~~
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmorbin)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,9 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div id='teste' style='background-color:blue;height:100px; width:100px'>
-  <p style="color:red">teste</p>
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

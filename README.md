@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <hr>
   
-✨ **Interesse em `Ciência de Dados`, `Análise de Dados`, e áreas correlacionadas. **
+✨ **Interesse em** `Ciência de Dados`**,** `Análise de Dados`**, e áreas correlacionadas.**
   
 <div style="background-color: red; height:100px; width:100px; border-radius:50%; padding:10px">
   <img height="40" src="https://github.com/bmorbin/bmorbin/blob/main/icons/Office.svg" />

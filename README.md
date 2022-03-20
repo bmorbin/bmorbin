@@ -23,6 +23,13 @@
   
 </div>
 
+
+  
+- ✨ Interested in **`Data Science`**, **`Data Analysis`**, and similar areas.
+- 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo.
+
+<hr>
+
 <div align="center">
   <a href="https://github.com/bmorbin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff"/>
@@ -31,9 +38,6 @@
 </div>
 
 <hr>
-  
-- ✨ Interested in **`Data Science`**, **`Data Analysis`**, and similar areas.
-- 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo.
   
 <div style="display:inline-block; filter: invert(1);">
   <img height="40" src="https://github.com/bmorbin/bmorbin/blob/main/icons/Office.svg" />

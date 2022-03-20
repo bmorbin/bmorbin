@@ -12,12 +12,12 @@
 
 
 <div style="display:inline-block; align-items:center">
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/R.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/postgresql.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/VBA.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/powerbi.svg" />
-  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/illustrator.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/r_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/postgresql_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/vba_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/powerbi_.svg" />
+  <img width="30em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/illustrator_.svg" />
 </div>
 

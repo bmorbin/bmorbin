@@ -12,13 +12,12 @@
 
 
 <div style="display:inline-block; filter: invert(1);">
-  ## Used Tools
   <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python.svg" />
   <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/R.svg" />
-  for data manipulation
+  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql.svg" />
+  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/postgresql.svg" />
+  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/VBA.svg" />
+  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/powerbi.svg" />
+  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/illustrator.svg" />
 </div>
 
-<img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/powerbi.svg" />
-  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/vba.svg" />
-  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/illustrator.svg" />
-  <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql.svg" />

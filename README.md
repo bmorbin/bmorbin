@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" height="180em">
   <a href="https://github.com/bmorbin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>
   </a>
 </div>
 

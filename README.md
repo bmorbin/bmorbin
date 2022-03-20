@@ -55,6 +55,6 @@ Here are some ideas to get you started:
   
 ✨ **Interested in** `Data Science`**,** `Data Analysis`**, and similar areas.**
   
-<div style="background-color: red; height:100px; width:100px; border-radius:50%; padding:10px">
+<div style="display:inline-block; filter: invert(1)">
   <img height="40" src="https://github.com/bmorbin/bmorbin/blob/main/icons/Office.svg" />
 </div>

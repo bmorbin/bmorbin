@@ -10,8 +10,9 @@
 - 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo.
 <hr>
 
-## Used Tools
+
 <div style="display:inline-block; filter: invert(1);">
+  ## Used Tools
   <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python.svg" />
   <img height="30em" src="https://github.com/bmorbin/bmorbin/blob/main/icons/R.svg" />
   for data manipulation

@@ -1,25 +1,4 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmorbin)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bmorbin&repo=mycodes)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**bmorbin/bmorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&exclude_repo=bmorbin.github.io&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -53,7 +32,8 @@ Here are some ideas to get you started:
 
 <hr>
   
-✨ **Interested in** `Data Science`**,** `Data Analysis`**, and similar areas.**
+- ✨ Interested in **`Data Science`**, **`Data Analysis`**, and similar areas.
+- 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo.
   
 <div style="display:inline-block; filter: invert(1);">
   <img height="40" src="https://github.com/bmorbin/bmorbin/blob/main/icons/Office.svg" />

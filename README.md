@@ -9,7 +9,7 @@
   <img height="145rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>
   </a>
 </div>
-<div style="display:inline-block">
+<div align="center" style="display:inline-block;margin-top:100px">
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python_.svg" />
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/r_.svg" />
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql_.svg" />

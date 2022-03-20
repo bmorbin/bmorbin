@@ -11,7 +11,7 @@
 <hr>
 
 
-<div style="display:inline-block; align-items:center">
+<div style="display:inline-block; align:center">
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/python_.svg" />
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/r_.svg" />
   <img width="40em" margin:"10px" src="https://github.com/bmorbin/bmorbin/blob/main/icons/mysql_.svg" />

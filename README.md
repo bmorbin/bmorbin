@@ -1,6 +1,8 @@
 - ✨ Interested in **`Data Science`**, **`Data Analysis`**, and similar areas.
 - 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo.
-  <hr>
+
+<hr>
+
 <div align="center">
   <a href="https://github.com/bmorbin">
   <img height="145rm" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=d6d6d8&bg_color=161b22&hide_border=True&title_color=ffffff"/>

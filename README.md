@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <hr>
   
 <p>
-  -> Interesse em Ciência de Dados, Análise de Dados, e áreas correlacionadas.
+  ✨ **Interesse em Ciência de Dados, Análise de Dados, e áreas correlacionadas.**
 </p>
   
 <div style="background-color: red; height:100px; width:100px; border-radius:50%; padding:10px">

@@ -44,9 +44,18 @@ Here are some ideas to get you started:
   
 </div>
 
-
 <div align="center">
   <a href="https://github.com/bmorbin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmorbin&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmorbin&langs_count=10&layout=compact&text_color=ffffff&bg_color=161b22&hide_border=True&title_color=ffffff"/>
+</div>
+
+<hr>
+  
+<p>
+  Interesse em Ciência de Dados, Análise de Dados, e áreas correlacionadas.
+</p>
+  
+<div style="background-color: red; height:100px; width:100px; border-radius:50%; padding:10px">
+  <img height="40" src="https://github.com/bmorbin/bmorbin/blob/main/icons/Office.svg" />
 </div>

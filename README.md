@@ -1,5 +1,5 @@
 - 🎯 Interested in **`Data Science`**, **`Data Analysis`**, and similar areas
-- 📚 Graduating in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo
+- 📚 Graduate in Statistics at the Institute of Mathematics and Statistics of the University of São Paulo
 
 ##
 
